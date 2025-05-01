@@ -33,9 +33,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Express.js**, **React**, **C**, and **C#**
 - 📫 How to reach me:<br>
   ![https://instagram.com/mogumogu_nomnom](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/juan-saputra-b1a81133b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://paypal.me/vkanoo](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
-###
-
-<img src="https://raw.githubusercontent.com/Scryper0/Scryper0/output/snake.svg" alt="Snake animation" />
-
-###
